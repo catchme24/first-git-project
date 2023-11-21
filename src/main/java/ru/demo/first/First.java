@@ -12,5 +12,8 @@ public class First
         System.out.println("MAKED BY FIRST 3");
 
         System.out.println("MAKED BY FIRST 4");
+
+        System.out.println("MAKED BY FIRST 5");
+        System.out.println("MAKED BY FIRST 6");
     }
 }
