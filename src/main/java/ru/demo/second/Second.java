@@ -9,8 +9,7 @@ public class Second
     public static void main( String[] args ) {
         System.out.println("MAKED BY SECOND");
         System.out.println("MAKED BY SECOND");
-        System.out.println("MAKED BY SECOND 3");
 
-        System.out.println("MAKED BY SECOND 4");
+        System.out.println("555");
     }
 }
