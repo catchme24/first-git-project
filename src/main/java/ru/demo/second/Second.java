@@ -10,5 +10,7 @@ public class Second
         System.out.println("MAKED BY SECOND");
         System.out.println("MAKED BY SECOND");
         System.out.println("MAKED BY SECOND 3");
+
+        System.out.println("MAKED BY SECOND 4");
     }
 }
